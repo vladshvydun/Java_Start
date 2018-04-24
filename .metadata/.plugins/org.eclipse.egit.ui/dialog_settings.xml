@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="MIXED" key="ResetTargetSelectionDialog.resetType"/>
+	<list key="EGit.KnownHosts">
+		<item value="bitbucket.org"/>
+		<item value="git.eclipse.org"/>
+		<item value="github.com"/>
+	</list>
+	<list key="RepositorySelectionPage.UsedUris">
+		<item value="https://github.com/vladshvydun/Task1_2.git"/>
+	</list>
+	<list key="CommitDialog.authorValues">
+		<item value="Владислав &lt;Владислав@192.168.0.101&gt;"/>
+		<item value="Владислав &lt;Владислав@192.168.0.102&gt;"/>
+		<item value="Владислав &lt;Владислав@192.168.0.100&gt;"/>
+		<item value="Владислав &lt;Владислав@192.168.15.122&gt;"/>
+	</list>
+	<list key="CommitDialog.committerValues">
+		<item value="Владислав &lt;Владислав@192.168.0.101&gt;"/>
+		<item value="Владислав &lt;Владислав@192.168.0.102&gt;"/>
+		<item value="Владислав &lt;Владислав@192.168.0.100&gt;"/>
+		<item value="Владислав &lt;Владислав@192.168.15.122&gt;"/>
+	</list>
+	<section name="org.eclipse.egit.ui.internal.dialogs.ResetTargetSelectionDialog.dialogBounds">
+		<item value="538" key="DIALOG_WIDTH"/>
+		<item value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
+		<item value="728" key="DIALOG_HEIGHT"/>
+		<item value="422" key="DIALOG_X_ORIGIN"/>
+		<item value="8" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="PushToGerritPage">
+		<item value="https://vladshvydun@github.com/vladshvydun/JavaStart.git" key="Repository[C:\git\Task5_5\.git].lastUri"/>
+	</section>
+	<section name="org.eclipse.egit.ui.internal.dialogs.RebaseTargetSelectionDialog.dialogBounds">
+		<item value="538" key="DIALOG_WIDTH"/>
+		<item value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
+		<item value="531" key="DIALOG_HEIGHT"/>
+		<item value="422" key="DIALOG_X_ORIGIN"/>
+		<item value="18" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="org.eclipse.egit.ui.internal.push.PushResultDialog.dialogBounds">
+		<item value="666" key="DIALOG_WIDTH"/>
+		<item value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|5|0|Segoe UI" key="DIALOG_FONT_NAME"/>
+		<item value="457" key="DIALOG_HEIGHT"/>
+		<item value="358" key="DIALOG_X_ORIGIN"/>
+		<item value="68" key="DIALOG_Y_ORIGIN"/>
+		<list key="sashWeights">
+			<item value="600"/>
+			<item value="400"/>
+		</list>
+	</section>
+	<section name="org.eclipse.egit.ui.internal.repository.CreateBranchPage$SourceSelectionDialog.dialogBounds">
+		<item value="538" key="DIALOG_WIDTH"/>
+		<item value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|5|0|Segoe UI" key="DIALOG_FONT_NAME"/>
+		<item value="483" key="DIALOG_HEIGHT"/>
+		<item value="-7" key="DIALOG_X_ORIGIN"/>
+		<item value="-110" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="org.eclipse.egit.ui.internal.pull.PullResultDialog.dialogBounds">
+		<item value="537" key="DIALOG_X_ORIGIN"/>
+		<item value="246" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="FetchGerritChangePage">
+		<item value="https://github.com/vladshvydun/Task5_5.git" key="Repository[C:\git\Task5_5\.git].lastUri"/>
+	</section>
+	<section name="GitCommitMessageComponent">
+		<list key="C:\git\Task1_2\.git">
+			<item value="empty"/>
+		</list>
+		<list key="C:\git\.git">
+			<item value="false"/>
+			<item value="Владислав &lt;Владислав@192.168.0.102&gt;"/>
+			<item value="Implement a method that displays a list of all catalogs that &quot;lie&quot; in he directory that will be parameter of this method."/>
+			<item value="Владислав &lt;Владислав@192.168.0.102&gt;"/>
+			<item value="0000000000000000000000000000000000000000"/>
+			<item value="0"/>
+		</list>
+		<list key="C:\Users\Владислав\git\.git">
+			<item value="false"/>
+			<item value="Владислав &lt;Владислав@192.168.0.100&gt;"/>
+			<item value="s"/>
+			<item value="Владислав &lt;Владислав@192.168.0.100&gt;"/>
+			<item value="0000000000000000000000000000000000000000"/>
+			<item value="0"/>
+		</list>
+		<list key="C:\git\Task2-2-1\.git">
+			<item value="empty"/>
+		</list>
+		<list key="C:\git\Task5_5\.git">
+			<item value="false"/>
+			<item value="Владислав &lt;Владислав@192.168.0.102&gt;"/>
+			<item value="&#x0D;&#x0A;&#x0D;&#x0A;Change-Id: I0000000000000000000000000000000000000000&#x0D;&#x0A;"/>
+			<item value="Владислав &lt;Владислав@192.168.0.102&gt;"/>
+			<item value="91f8a4d106262faa9212bb09f9fb94bf925a1c78"/>
+			<item value="0"/>
+		</list>
+	</section>
+	<section name="org.eclipse.egit.ui.internal.fetch.FetchResultDialog.dialogBounds">
+		<item value="616" key="DIALOG_WIDTH"/>
+		<item value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
+		<item value="457" key="DIALOG_HEIGHT"/>
+		<item value="383" key="DIALOG_X_ORIGIN"/>
+		<item value="68" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="org.eclipse.egit.ui.internal.dialogs.MergeTargetSelectionDialog.dialogBounds">
+		<item value="538" key="DIALOG_WIDTH"/>
+		<item value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
+		<item value="678" key="DIALOG_HEIGHT"/>
+		<item value="422" key="DIALOG_X_ORIGIN"/>
+		<item value="8" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="org.eclipse.egit.ui.internal.staging.StagingView">
+		<item value="531,468" key="STAGING_SASH_FORM_WEIGHT"/>
+		<item value="true" key="sortItemState"/>
+		<item value="500,500" key="HORIZONTAL_SASH_FORM_WEIGHT"/>
+	</section>
+</section>
